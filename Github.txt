@@ -2,3 +2,10 @@ Belajar Github
 - Siapkan email
 - buat username dan password
 - masukan kode yang diberikan github lewat email
+- verivikasi emailmu
+
+
+
+
+
+jika salah anda dapat malakukan pull request karena saya masih belajar
