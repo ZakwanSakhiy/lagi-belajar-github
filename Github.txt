@@ -1,6 +1,7 @@
 Belajar Github
 - Siapkan email
 - buat username dan password
+- masukan kode yang diberikan github lewat email
 - verivikasi emailmu
 
 
